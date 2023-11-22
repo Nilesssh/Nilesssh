@@ -13,7 +13,6 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/nileshgurnule/" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
-- ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 <br>
 
 
