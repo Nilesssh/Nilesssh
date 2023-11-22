@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/nileshgurnule/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-   <img src="https://img.shields.io/badge/RESUME-8A2BE2" target='_blank'/>
+   <img src="https://img.shields.io/badge/RESUME-8A2BE2" style="margin-bottom: 5px; target='_blank'/>
 </a>
 
 </div>
