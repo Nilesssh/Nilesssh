@@ -51,7 +51,11 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex;  gap:50px">
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=nilesssh&_border=true&theme=dark&hide_border=true&theme=react" style="width: 47%" />
 
+</div> 
 
 
 
