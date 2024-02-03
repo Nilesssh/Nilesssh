@@ -71,8 +71,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=nilesssh&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
 <hr>
-<div align="center" >
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
-</div>
+
 
 
