@@ -58,11 +58,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesssh&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 44%" />
 
 </div>
-<div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com?user=nilesssh&_border=true&theme=dark&hide_border=true&theme=react" style="width: 47%" />
 
-</div> 
 
  
 <h3 align="center">🏆 Achivements</h3>
