@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/nileshgurnule/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-  <a href="https://drive.google.com/file/d/1Sgf5eKEGEZDL8TWdhKBA_6TVXv3tPRZu/view?usp=drive_link" download>
+  <a href="https://drive.google.com/file/d/1VfR3LvsCBBM0CxSCExFosEZ0z80uaD-g/view?usp=drive_link" download>
    <img src="https://img.shields.io/badge/RESUME-8A2BE2"  target='_blank' style="margin-bottom: 5px; "/>
 </a>
 
